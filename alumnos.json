@@ -1,0 +1,7 @@
+{
+	"alumnos":
+	[
+		{"dni":"98436573","nombre":"Jose","apepat":"Rodrigues","apemat":"Gomez","telefono":"982061754","correo":"jose@gmail.com","carrera":"Marketing"},
+		{"dni":"94547464","nombre":"Lucia","apepat":"Gimenez","apemat":"Quispe","telefono":"953743853","correo":"lucia@gmail.com","carrera":"Contabilidad"}
+	]
+}
