@@ -3,5 +3,7 @@
 	[
 		{"dni":"98436573","nombre":"Jose","apepat":"Rodrigues","apemat":"Gomez","telefono":"982061754","correo":"jose@gmail.com","carrera":"Marketing"},
 		{"dni":"94547464","nombre":"Lucia","apepat":"Gimenez","apemat":"Quispe","telefono":"953743853","correo":"lucia@gmail.com","carrera":"Contabilidad"}
+		{"dni":"93485738","nombre":"Raul","apepat":"Diaz","apemat":"Lopez","telefono":"948375328","correo":"raul@gmail.com","carrera":"Diseño Grafico"}
+		{"dni":"95486743","nombre":"Ana","apepat":"Velasques","apemat":"Oros","telefono":"945748565","correo":"ana@gmail.com","carrera":"Desarrollo de Software"}
 	]
 }
